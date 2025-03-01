@@ -31,7 +31,7 @@ Este proyecto es una aplicación de front-end diseñada para un marketplace de T
 
 ## Instrucciones de Instalación
 1. Clona el repositorio:
-   git clone https://github.com/tu-usuario/tcg-front.git
+   git clone https://github.com/Chavezgarrido/tcg-front.git
 
 2. Navega al directorio del proyecto:
   cd tcg-marketplace
