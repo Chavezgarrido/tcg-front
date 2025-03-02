@@ -1,0 +1,12 @@
+.container {
+    padding: 20px;
+  }
+  
+  h2 {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
